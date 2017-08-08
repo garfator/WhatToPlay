@@ -57,4 +57,4 @@ namespace Discord_Bot
 }
 // https://discordapp.com/oauth2/authorize?client_id=336918100127645706&scope=bot&permissions=0
 
-//336918100127645706
+//336918100127645706 https://www.youtube.com/watch?v=hE6ZFkSWbNc&t=50s
