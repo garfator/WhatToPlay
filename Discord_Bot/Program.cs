@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Discord_Bot
-{//Why does nothing work? No NuGetpackage?
+{//Why does nothing work? No NuGetpackage? Testing WILL THIS WORK NOW?
     class Program
     {
         private CommandService commands;
